@@ -14,3 +14,6 @@ Steps
 ۲۔بن جائیں گے ship.scn model ، art.scnassets folder
 ۳۔ اب آپ ماڈل پر کلک کر کے اس ماڈل میں اپنی مرضی کے فنکشن ایڈ کر سکتے ہیں 
 آپ کا ڈیمو تیار ہے
+
+code link
+https://github.com/akhzarna/ARDemo
